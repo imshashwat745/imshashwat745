@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imshashwat745&show_icons=true&locale=en&layout=compact" alt="imshashwat745" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/imshashwat745?ext=contest)
+
