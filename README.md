@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashwat Krishna Shukla</h1>
 <h3 align="center">A passionate software programmer from Lucknow, India</h3>
-<img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9527gbh2346akupoz6e6w3jldnumw7y1u9r3mvboqfl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!-- <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9527gbh2346akupoz6e6w3jldnumw7y1u9r3mvboqfl&ep=v1_gifs_search&rid=giphy.gif&ct=g"> -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/imshashwat745?ext=contest)
 
 <p align="left"> <a href="https://twitter.com/imshashwat745" target="blank"><img src="https://img.shields.io/twitter/follow/imshashwat745?logo=twitter&style=for-the-badge" alt="imshashwat745" /></a> </p>
 
